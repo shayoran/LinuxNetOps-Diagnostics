@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-09-22 17:20:10",
+    "pings": {
+        "8.8.8.8": "SUCESSO (Online)",
+        "1.1.1.1": "SUCESSO (Online)",
+        "8.8.4.4": "SUCESSO (Online)"
+    },
+    "portas_tcp": {
+        "8.8.8.8": {
+            "53": "Aberta",
+            "80": "Fechada/Filtrada",
+            "443": "Aberta"
+        }
+    }
+}
